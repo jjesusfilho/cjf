@@ -1,6 +1,6 @@
 Package: cjf
 Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: 
     person(given = "Jose",
            family = "de Jesus Filho",
@@ -14,3 +14,8 @@ Language: pt_BR
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+Suggests: 
+    roxygen2
+Imports: 
+    rlang (>= 0.1.2),
+    magrittr
