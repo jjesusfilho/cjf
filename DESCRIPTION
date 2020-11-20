@@ -18,4 +18,14 @@ Suggests:
     roxygen2
 Imports: 
     rlang (>= 0.1.2),
-    magrittr
+    magrittr,
+    stringi,
+    stringr,
+    purrr,
+    dplyr,
+    tidyr,
+    lubridate,
+    httr,
+    xml2,
+    tibble,
+    progress
