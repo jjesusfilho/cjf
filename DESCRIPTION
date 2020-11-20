@@ -29,3 +29,5 @@ Imports:
     xml2,
     tibble,
     progress
+URL: https://github.com/jjesusfilho/cjf
+BugReports: https://github.com/jjesusfilho/cjf/issues
